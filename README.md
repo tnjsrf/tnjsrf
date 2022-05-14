@@ -14,7 +14,7 @@ job: @MusalaSoft ⛰️
 
 ## preferred technologies 🚀
 
-**javascript**, **typescript**, **react**,** next.js**, **react native**,** vue.js**, **nuxt.js**, **tailwindcss**
+**javascript**, **typescript**, **react**, **next.js**, **react native**, **vue.js**, **nuxt.js**, **tailwindcss**.
 
 ## contact ☎️
 
