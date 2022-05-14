@@ -5,8 +5,12 @@
 ### info 🧍
 
 name: tanju şerif
+
 from: gilan, kosovo 🇽🇰 
+
 birthdate: 27.12.1995
+
+job: @MusalaSoft
 
 ### preferred technologies 🚀
 
