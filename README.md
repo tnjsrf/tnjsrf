@@ -1,16 +1,18 @@
 ### hi there 👋 i'm tanju, a javascript developer. virtually known as @tnjsrf.
 
-## info 🧍
+##
+
+### info 🧍
 
 name: tanju şerif
 from: gilan, kosovo 🇽🇰 
 birthdate: 27.12.1995
 
-## preferred technologies 🚀
+### preferred technologies 🚀
 
 **javascript**, **typescript**, **react**,** next.js**, **react native**,** vue.js**, **nuxt.js**, **tailwindcss**
 
-## contact ☎️
+### contact ☎️
 
 - (tnjsrf@gmail.com)[mailto:tnjsrf@gmail.com]
 - (personal site)[https://www.tnjsrf.com]
