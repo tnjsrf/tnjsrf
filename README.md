@@ -9,7 +9,7 @@ from: gilan, kosovo 🇽🇰 🤟
 
 birthdate: 27.12.1995 🎂
 
-job: @MusalaSoft ⛰️
+working at: @MusalaSoft ⛰️
 
 
 ## preferred technologies 🚀
