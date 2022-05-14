@@ -15,10 +15,15 @@ birthdate: 27.12.1995
 ### contact ☎️
 
 📬 [tnjsrf@gmail.com](mailto:tnjsrf@gmail.com)
+
 🤵 [personal site](https://www.tnjsrf.com)
+
 💻 [linkedin](https://www.linkedin.com/in/tnjsrf)
+
 🐦 [twitter](https://www.twitter.com/tnjsrf)
+
 📸 [instagram](https://www.instagram.com/tnjsrf)
+
 🫂 [facebook](https://www.facebook.com/tnjsrf)
 
 
