@@ -1,16 +1,22 @@
-### Hi there 👋
+### hi there 👋 i'm tanju, a javascript developer. virtually known as @tnjsrf.
 
-<!--
-**tnjsrf/tnjsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## info 🧍
 
-Here are some ideas to get you started:
+name: tanju şerif
+from: gilan, kosovo 🇽🇰 
+birthdate: 27.12.1995
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## preferred technologies 🚀
+
+**javascript**, **typescript**, **react**,** next.js**, **react native**,** vue.js**, **nuxt.js**, **tailwindcss**
+
+## contact ☎️
+
+- (tnjsrf@gmail.com)[mailto:tnjsrf@gmail.com]
+- (personal site)[https://www.tnjsrf.com]
+- (linkedin)[https://www.linkedin.com/in/tnjsrf]
+- (twitter)[https://www.twitter.com/tnjsrf]
+- (instagram)[https://www.instagram.com/tnjsrf]
+- (facebook)[https://www.facebook.com/tnjsrf]
+
+
