@@ -9,7 +9,7 @@ from: gilan, kosovo 🇽🇰 🤟
 
 birthdate: 27.12.1995 🎂
 
-working @ Netconomy :gem:
+working @ netconomy :gem:
 
 
 ## preferred technologies 🚀
